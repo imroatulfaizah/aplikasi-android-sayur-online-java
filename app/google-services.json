@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "690152279457",
+    "firebase_url": "https://sayon-38e0d.firebaseio.com",
+    "project_id": "sayon-38e0d",
+    "storage_bucket": "sayon-38e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690152279457:android:c30b8b71992b8eb9",
+        "android_client_info": {
+          "package_name": "com.faizah.sayon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690152279457-v1l9b7erdjqne7vrv8bak875h0fp04o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faizah.sayon",
+            "certificate_hash": "c7c625a5c330c72ad98ba02dc30cd19048369a9b"
+          }
+        },
+        {
+          "client_id": "690152279457-t3vu2n2le875agpdi8t2aupu2onfehp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQ7ey9IJPRV1rz-M-U-_tO1D2efi_vmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690152279457-t3vu2n2le875agpdi8t2aupu2onfehp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
